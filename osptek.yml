@@ -1,0 +1,14 @@
+id: epd-1.69-400x400-spi-ist7601
+category: displays
+
+size: "1.69"
+panel: epd
+resolution: 400x400
+interface: [spi]
+shape: round
+
+versions:
+  - id: EPD0169A06
+    driver: IST7601CA0
+    touch: none
+    note: 32-pin FPC, round six-color (black / white / red / yellow / blue / green)
