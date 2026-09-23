@@ -19,6 +19,7 @@
 
 - [Overview](#overview)
 - [Specifications](#specifications)
+- [Sample projects](#sample-projects)
 - [Repository layout](#repository-layout)
 - [Resources](#resources)
 - [Buy](#buy)
@@ -46,6 +47,12 @@ Current module version: **EPD0169A06**. Electrical and mechanical details follow
 
 > Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet.
 
+## Sample projects
+
+| Description | Path |
+| ---- | ---- |
+| ESP32-S3 · S3 DEMO board · IST7601 SPI 6-color e-paper | [`examples/esp32s3-idf5_ist7601-spi/`](./examples/esp32s3-idf5_ist7601-spi/) |
+
 ## Repository layout
 
 ```text
@@ -67,6 +74,10 @@ epd-1.69-400x400-spi-ist7601/             # repo root (nav: ../../README_EN.md)
 | ---- | ---- |
 | Product datasheet | [`docs/EPD0169A06.pdf`](./docs/EPD0169A06.pdf) |
 | 1.69″ six-color e-paper adapter (for S3 DEMO board) | [`docs/1.69寸6色墨水屏转接板_适用于S3 DEMO底板.pdf`](./docs/1.69%E5%AF%B86%E8%89%B2%E5%A2%A8%E6%B0%B4%E5%B1%8F%E8%BD%AC%E6%8E%A5%E6%9D%BF_%E9%80%82%E7%94%A8%E4%BA%8ES3%20DEMO%E5%BA%95%E6%9D%BF.pdf) |
+
+### Samples
+
+- [ESP32-S3 · S3 DEMO board · IST7601 SPI](./examples/esp32s3-idf5_ist7601-spi/)
 
 ## Buy
 
