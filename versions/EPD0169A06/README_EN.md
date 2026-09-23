@@ -73,6 +73,7 @@ epd-1.69-400x400-spi-ist7601/             # repo root (nav: ../../README_EN.md)
 | Resource | Link |
 | ---- | ---- |
 | Product datasheet | [`docs/EPD0169A06.pdf`](./docs/EPD0169A06.pdf) |
+| 3D drawing (EPD0169A06) | [`docs/EPD0169A06.dwg`](./docs/EPD0169A06.dwg) |
 | 1.69″ six-color e-paper adapter (for S3 DEMO board) | [`docs/1.69寸6色墨水屏转接板_适用于S3 DEMO底板.pdf`](./docs/1.69%E5%AF%B86%E8%89%B2%E5%A2%A8%E6%B0%B4%E5%B1%8F%E8%BD%AC%E6%8E%A5%E6%9D%BF_%E9%80%82%E7%94%A8%E4%BA%8ES3%20DEMO%E5%BA%95%E6%9D%BF.pdf) |
 
 ### Samples
